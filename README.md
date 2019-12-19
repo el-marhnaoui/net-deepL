@@ -1,5 +1,5 @@
 # net-deepL
-# Ces données est acguée avec la bibliothèque Keras aussi disponible via scikit-learn. Il y a 506 échantillons et 13 variables de fonctionnalités dans cet ensemble de données.
+# Ces données sont acguées de la bibliothèque Keras aussi disponible via scikit-learn. Il y a 506 échantillons et 13 variables de fonctionnalités dans cet ensemble de données.
 # L'objectif est de prédire la valeur des prix de la maison en utilisant les caractéristiques et variables données:
 
         CRIM: Per capita crime rate by town
